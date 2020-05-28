@@ -1,2 +1,2 @@
-# quocduong-n.github.io
+# quoc-duong.github.io
 My website
