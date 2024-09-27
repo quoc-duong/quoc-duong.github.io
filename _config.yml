@@ -24,9 +24,9 @@ instagram_username: quocduong_n
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hello there, my name's Quoc Duong and I'm a master's student in computer science student at EPITA, specialized in AI and health.
+  Hello there, my name is Quoc Duong and I'm an audio software engineer at Télécom Paris.
 
-  I am most skilled in: <mark>Machine learning</mark> and <mark>Drinking bubble tea</mark>
+  I am most skilled in: <mark>Googling</mark> and <mark>Drinking bubble tea</mark>
 
 content:
   - title: Projects # Title for the section
@@ -40,7 +40,7 @@ content:
             icon: fab fa-github
             url: github.com/demixr
         description: | # this will include new lines to allow paragraphs
-            Open source music demixing application on mobile using PyTorch Mobile.
+            Open source music demixing application on mobile using <mark>PyTorch</mark> Mobile.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -106,7 +106,7 @@ content:
         link_text: uos.ac.kr
         sub_title: Academic Exchange Semester
         description: | # this will include new lines to allow paragraphs
-            Courses: Computer Architecture, Formal Languages and Compilers, Introduction to Operating Systems, Discrete Mathematics, Beginning Korean, Pronunciation of Korean.
+            - Courses: Computer Architecture, Formal Languages and Compilers, Introduction to Operating Systems, Discrete Mathematics, Beginning Korean, Pronunciation of Korean.
 
   - title: A Little More About Me
     layout: text
