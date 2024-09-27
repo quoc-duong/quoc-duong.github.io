@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Quoc Duong Nguyen
-title: Master's student in Computer Science @ EPITA
+title: Audio Software Engineer @ Télécom Paris
 email: quoc-duong.nguyen@outlook.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -46,6 +46,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Télécom Paris
+        link: https://adasp.telecom-paris.fr/
+        link_text: adasp.telecom-paris.fr
+        sub_title: Audio Software Engineer
+        caption: November 2023 - Now
+        description: | # this will include new lines to allow paragraphs
+            Real-time audio processing on <mark>Android</mark> and <mark>iOS</mark> in the ADASP group of the LTCI laboratory.
+      - layout: left
+        title: BOpA/Inria - Bernoulli Lab
+        link: https://www.bernoulli-lab.fr/project/chaire-bopa/
+        link_text: bernoulli-lab.fr
+        sub_title: Machine Learning Intern
+        caption: Mars 2022 - Août 2022
+        description: | # this will include new lines to allow paragraphs
+            Deep learning and augmented reality to assist with liver resection.
+      - layout: left
         title: EPITA
         link: epita.fr
         link_text: epita.fr
@@ -60,11 +76,20 @@ content:
         sub_title: Fullstack Developer Intern
         caption: September 2020 - January 2021
         description: | # this will include new lines to allow paragraphs
-            Development of a web application which aims to group and search specific resources using <mark>React.js</mark>, <mark>Java</mark>, <mark>MongoDB</mark>, <mark>Jira</mark>
+            Development of a web application which aims to group and search specific resources using <mark>React.js</mark>, <mark>Java</mark>, <mark>MongoDB</mark>, <mark>Jira</mark>.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: "Universitat Pompeu Fabra"
+        caption: 2022 - 2023
+        link: https://www.upf.edu/web/smc
+        link_text: upf.edu
+        sub_title: Master in Sound and Music Computing
+        description: | # this will include new lines to allow paragraphs
+            - Master thesis on automatic score-to-score music generation.
+            - Courses: Audio Signal Processing, Music Perception and Cognition, Music Information Retrieval, Audio and Music Processing, Research Methods, Natural Language Interaction
       - layout: left
         title: "EPITA: School of Engineering and Computer Science"
         caption: 2017 - 2022
@@ -72,8 +97,8 @@ content:
         link_text: epita.fr
         sub_title: MSc in Computer Science
         description: | # this will include new lines to allow paragraphs
-            - Majoring in AI/Healthcare: Deep learning, Medical imaging, bioinformatics, High Performance Computing, Standards and interoperability. AP-HP, Doctolib
-            - International Section: Courses are taken in English during the first three years
+            - Majoring in AI/Healthcare: Deep learning, Medical imaging, bioinformatics, High Performance Computing, Standards and interoperability. AP-HP, Doctolib.
+            - International Section: Courses are taken in English during the first three years.
       - layout: left
         title: "University of Seoul - 서울시립대학교"
         caption: February 2019 - June 2019
@@ -81,7 +106,7 @@ content:
         link_text: uos.ac.kr
         sub_title: Academic Exchange Semester
         description: | # this will include new lines to allow paragraphs
-            Computer Architecture, Formal Languages and Compilers, Introduction to Operating Systems, Discrete Mathematics, Beginning Korean, Pronunciation of Korean
+            Courses: Computer Architecture, Formal Languages and Compilers, Introduction to Operating Systems, Discrete Mathematics, Beginning Korean, Pronunciation of Korean.
 
   - title: A Little More About Me
     layout: text
